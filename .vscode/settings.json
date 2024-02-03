@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "termios.h": "c",
+        "unistd.h": "c",
+        "ncurses.h": "c",
+        "texteditor.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
